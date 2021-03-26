@@ -60,7 +60,8 @@ Go to http://insideairbnb.com/get-the-data.html and located Clark County, NV and
 
 Once you have the files properly installed you will be able to run the jupyter notebook accordingly. 
 
-
+If you would like to review my blog post for a walk-through of this project, feel free to check out this link:
+https://nataly-nuila.medium.com/how-can-you-determine-your-price-for-you-airbnb-in-las-vegas-ca-661bcf917b1
 
 
 
