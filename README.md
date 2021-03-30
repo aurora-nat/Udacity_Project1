@@ -14,6 +14,9 @@ CRISP-DM invovles 6 iterative steps which are the following:
 
 The project will review each of the steps carefully utilizing Insider Airbnb's Clark County, NV Data to review how a normal data science project would follow CRISP-DM. In the end of the project, I build a linear regression model to predict the price of a listing.
 
+## Summary Of Project Results:
+The goal was to understand what features within Insider's Airbnb Data contributed to the price of a listing. We explored the data using the CRISP-DM methodology and unconvered that utilzing the following features: accommodates, price, review_score_rating, reviews_per_month, amenities, and room type led to a good prediction estimate using our linear regression model. Further iterations of the CRISP-DM project can lead to a better r-squared score in future developments.
+
 ## Installation
 Clone the github repository and you will need to have Jupyter Notebook Installed with proper libraries for the code to run.
 
